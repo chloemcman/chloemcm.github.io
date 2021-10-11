@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<Chloe McManus. I went to highschool at Fairview High School in Erie, PA. I was on the the volleyball and softball teams all through out highschool. I was also on my school’s FIRST Robotics team. That was how I found out about RIT. The finger lakes regional was held here. The only thing I did not like about RIT when I went was how much snow was on the ground. I love skiing and snowboarding, but I hate being cold. So, it’s kind of fun that I went to RIT. My favorite food is red velvet cake.>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+<https://www.rit.edu/computing/department-software-engineering>
+<ol>
+  <li>learn more about coding languages</li>
+  <li>gain a bigger network</li>
+  <li>get a coding study group together</li>
+</ol>
+</html>
